@@ -1,3 +1,15 @@
+MP2:
+
+This is an MP2 project for CS498!
+
+With members:
+
+Tom Busby
+Josh Luttrell
+Bailey Wells
+Alexandra Wallace
+
+
 Joda-Time
 ---------
 
